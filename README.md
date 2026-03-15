@@ -34,7 +34,7 @@ le but est de maîtriser les formulaires contrôlés et non-contrôlés, de comp
  
 ## 📁 Structure du projet
  
-
+![Structure du projet](structure-projet.png)
  
 ## Installation et lancement
  
