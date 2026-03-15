@@ -87,7 +87,11 @@ npm start
  
 ## Aperçu de l'application
 
+![capture 1](1.png)
 
+![capture 2](2.png)
+
+![capture 3](3.png)
  
 #### L'application affiche :
 #### - Un formulaire contrôlé (Nom + Email)
