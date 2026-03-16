@@ -85,7 +85,7 @@ npm start
  
 ---
  
-## Aperçu de l'application
+## Aperçu de l'application 
 
 ![capture 1](1.png)
 
